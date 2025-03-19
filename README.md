@@ -8,7 +8,7 @@ I'am a PhD student in Computer Science and Engineering at Alma Mater Studiorum U
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=AnnaVitali&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnnaVitali&date_format=[Y.]n.j)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=AnnaVitali)](https://git.io/streak-stats)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaVitali)](https://github.com/anuraghazra/github-readme-stats)
 
