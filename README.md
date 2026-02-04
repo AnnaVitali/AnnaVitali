@@ -2,15 +2,11 @@
 
 I’m a PhD student in **Computer Science and Engineering** at  **Alma Mater Studiorum – University of Bologna**.
 
----
-
 ### 🧠 Research interests
 - Optimization
 - Constraint Programming
 - Artificial Intelligence
 - Industrial AI applications
-
----
 
 ### 🛠️ Languages & Tools
 <div align="center">
@@ -18,8 +14,6 @@ I’m a PhD student in **Computer Science and Engineering** at  **Alma Mater Stu
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnnaVitali&layout=compact&hide=html,css,xslt,makefile)
 
 </div>
-
----
 
 ### 📊 GitHub activity
 <div align="center">
